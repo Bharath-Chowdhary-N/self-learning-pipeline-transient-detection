@@ -28,7 +28,6 @@ PSF/
     psf_array.npy
 ```
 
-The PSF should be a NumPy array that you've previously saved using numpy.save().
 
 **3. Test Data for Discovery**
 
